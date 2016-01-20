@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Abdulla Abdullayev](https://htmlacademy.ru/profile/id134826).
-
+Abdulla
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
